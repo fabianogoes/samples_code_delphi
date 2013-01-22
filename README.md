@@ -1,0 +1,1 @@
+Aplicações que faço para testar bibliotecas e API - guardo exemplos para futuras pesquisas

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dados_envio_coleta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://wserviceh.dellavolpe.com.br/IColeta/Xsd/SchemaDellaVolpe.xsd">
+	<dados_chamado>
+		<numero>CH3294200</numero>
+		<data_abertura>2010-12-01T13:33:32Z</data_abertura>
+	</dados_chamado>
+	<dados_requisitante>
+		<matricula>30197871</matricula>
+		<nome/>
+		<codigo_empresa>30</codigo_empresa>
+		<telefone>37-88160132</telefone>
+		<email>DOUGLAS.BARRETO@VALE.COM</email>
+		<sigla_gerente_area>SUPERV PCM</sigla_gerente_area>
+		<sigla_gerente_geral>GANTG</sigla_gerente_geral>
+	</dados_requisitante>
+	<dados_centro_custo_projeto>
+		<centro_custo_projeto>Centro de Custo</centro_custo_projeto>
+		<unidade_controle>LFA</unidade_controle>
+		<codigo_centro_custo>030033303000</codigo_centro_custo>
+		<codigo_projeto/>
+		<codigo_tarefa/>
+	</dados_centro_custo_projeto>
+	<dados_aprovador>
+		<matricula/>
+		<nome/>
+		<data_hora>2010-12-01T13:41:47Z</data_hora>
+		<sigla_gerente_area/>
+		<sigla_gerente_geral/>
+	</dados_aprovador>
+	<descricao>{}</descricao>
+	<dados_solicitacao>
+		<tipo_solicitacao>Solicitação de Coleta Normal</tipo_solicitacao>
+		<coleta_realizada/>
+		<tipo_coleta/>
+		<chamado_coleta_normal/>
+		<numero_asn/>
+		<numero_coleta/>
+		<data_programacao>2010-12-02T02:00:00Z</data_programacao>
+		<carga_importacao>NÿO</carga_importacao>
+		<numero_di/>
+		<transportadora>DellaVolpe</transportadora>
+	</dados_solicitacao>
+	<dados_origem>
+		<cnpj>00.924.429/0001-75</cnpj>
+		<estado>MG</estado>
+		<cidade>BELO HORIZONTE</cidade>
+		<tipo_endereco/>
+		<endereco>Coronel Júlio Ribeiro Gontijo,391</endereco>
+		<complemento>TERREO</complemento>
+		<bairro>Esplanada</bairro>
+		<cep>35001000</cep>
+	</dados_origem>
+	<dados_destino>
+		<cnpj>00.924.429/0001-75</cnpj>
+		<estado>MG</estado>
+		<cidade>BELO HORIZONTE</cidade>
+		<tipo_endereco/>
+		<endereco>RUA ESPANHA, 1280</endereco>
+		<complemento>TERREO</complemento>
+		<bairro>Boa Vista</bairro>
+		<cep>38070050</cep>
+	</dados_destino>
+	<dados_carga>
+		<distancia_km>20</distancia_km>
+		<qtde_itens_da_carga>1</qtde_itens_da_carga>
+		<item_carga>
+			<descricao>COMPONENTES DIVERSOS</descricao>
+			<quantidade_volume>33</quantidade_volume>
+			<altura>2.9</altura>
+			<largura>2.6</largura>
+			<comprimento>8</comprimento>
+			<peso>8000</peso>
+			<valor>105371.40000000001</valor>
+			<tipo_embalagem>Outros</tipo_embalagem>
+			<tipo_carroceria>Aberta</tipo_carroceria>
+			<produto_perigoso>NÿO</produto_perigoso>
+			<numero_onu>0</numero_onu>
+			<classe_risco/>
+			<grupo_embalagem/>
+			<carga_fragil>SIM</carga_fragil>
+		</item_carga>
+		<valor_total>105371.40000000001</valor_total>
+		<responsavel_pagamento_frete>Origem</responsavel_pagamento_frete>
+		<peso_total>8000</peso_total>
+		<nf/>
+		<sigla_oi/>
+		<sigla_oi_origem/>
+		<necessidades_especiais>{}</necessidades_especiais>
+		<qtde_itens_po>0</qtde_itens_po>
+		<codigo_barras_caixa>0</codigo_barras_caixa>
+		<codigo_barras_embalagem>0</codigo_barras_embalagem>
+		<codigo_material_fornecedor>0</codigo_material_fornecedor>
+		<codigo_material_comprador>0</codigo_material_comprador>
+		<meso_origem>MG-MESO METROPOLITANA BELO HORIZONTE</meso_origem>
+		<meso_destino/>
+		<tipo_veiculo/>
+		<modalidade>Rota Fracionada</modalidade>
+	</dados_carga>
+</dados_envio_coleta>

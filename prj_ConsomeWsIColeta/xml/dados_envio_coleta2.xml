@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dados_envio_coleta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://wserviceh.dellavolpe.com.br/IColeta/Xsd/SchemaDellaVolpe.xsd">
+  <dados_chamado>
+    <numero>CH3299868</numero>
+    <data_abertura>2010-12-02T11:20:59Z</data_abertura>
+  </dados_chamado>
+  <dados_requisitante>
+    <matricula>01495046</matricula>
+    <nome></nome>
+    <codigo_empresa>01</codigo_empresa>
+    <telefone>(31) 99846478</telefone>
+    <email>MANUELA.ROCHA@VALE.COM</email>
+    <sigla_gerente_area>GAXIR</sigla_gerente_area>
+    <sigla_gerente_geral>GEVAR</sigla_gerente_geral>
+  </dados_requisitante>
+  <dados_centro_custo_projeto>
+    <centro_custo_projeto>Centro de Custo</centro_custo_projeto>
+    <unidade_controle>CSG</unidade_controle>
+    <codigo_centro_custo>001011010711</codigo_centro_custo>
+    <codigo_projeto></codigo_projeto>
+    <codigo_tarefa></codigo_tarefa>
+  </dados_centro_custo_projeto>
+  <dados_aprovador>
+    <matricula>01628768</matricula>
+    <nome></nome>
+    <data_hora>2010-12-02T11:39:06Z</data_hora>
+    <sigla_gerente_area></sigla_gerente_area>
+    <sigla_gerente_geral></sigla_gerente_geral>
+  </dados_aprovador>
+  <descricao>{}</descricao>
+  <dados_solicitacao>
+    <tipo_solicitacao>Solicitação de Coleta de Frete Expresso</tipo_solicitacao>
+    <coleta_realizada>NÿO</coleta_realizada>
+    <tipo_coleta></tipo_coleta>
+    <chamado_coleta_normal></chamado_coleta_normal>
+    <numero_asn></numero_asn>
+    <numero_coleta></numero_coleta>
+    <data_programacao>2010-12-02T11:15:57Z</data_programacao>
+    <carga_importacao>NÿO</carga_importacao>
+    <numero_di></numero_di>
+    <transportadora>DellaVolpe</transportadora>
+  </dados_solicitacao>
+  <dados_origem>
+    <cnpj>33.592.510/0007-40</cnpj>
+    <estado>MG</estado>
+    <cidade>OURO PRETO</cidade>
+    <tipo_endereco></tipo_endereco>
+    <endereco>ROD.BR 040 KM 598, S/N</endereco>
+    <complemento>DISTRITO DE MIGUEL BURNIER</complemento>
+    <bairro>Ouro Preto - MG</bairro>
+    <cep>34000-000</cep>
+  </dados_origem>
+  <dados_destino>
+    <cnpj>02.476.026/0001-36</cnpj>
+    <estado>SP</estado>
+    <cidade>CUBATAO</cidade>
+    <tipo_endereco>X</tipo_endereco>
+    <endereco>AV ENGENHEIRO BERNARDO GEISEL FILHO  SN</endereco>
+    <complemento>NA</complemento>
+    <bairro>RAIZ SERRA</bairro>
+    <cep>11555010</cep>
+  </dados_destino>
+  <dados_carga>
+    <distancia_km>795</distancia_km>
+    <qtde_itens_da_carga>1</qtde_itens_da_carga>
+    <item_carga>
+      <descricao>Mochila</descricao>
+      <quantidade_volume>100</quantidade_volume>
+      <altura>0.37</altura>
+      <largura>0.46</largura>
+      <comprimento>0.81</comprimento>
+      <peso>17.150000000000002</peso>
+      <valor>1281.8</valor>
+      <tipo_embalagem>Caixas</tipo_embalagem>
+      <tipo_carroceria>Sider</tipo_carroceria>
+      <produto_perigoso>NÿO</produto_perigoso>
+      <numero_onu>0</numero_onu>
+      <classe_risco></classe_risco>
+      <grupo_embalagem></grupo_embalagem>
+      <carga_fragil>NÿO</carga_fragil>
+    </item_carga>
+    <valor_total>1281.8</valor_total>
+    <responsavel_pagamento_frete>Origem</responsavel_pagamento_frete>
+    <peso_total>17.150000000000002</peso_total>
+    <nf>2264</nf>
+    <sigla_oi></sigla_oi>
+    <sigla_oi_origem>0B1</sigla_oi_origem>
+    <necessidades_especiais>{}</necessidades_especiais>
+    <qtde_itens_po>0</qtde_itens_po>
+    <codigo_barras_caixa>0</codigo_barras_caixa>
+    <codigo_barras_embalagem>0</codigo_barras_embalagem>
+    <codigo_material_fornecedor>0</codigo_material_fornecedor>
+    <codigo_material_comprador>0</codigo_material_comprador>
+    <meso_origem>MG-MESO OURO PRETO</meso_origem>
+    <meso_destino></meso_destino>
+    <tipo_veiculo></tipo_veiculo>
+    <modalidade>Spot</modalidade>
+  </dados_carga>
+</dados_envio_coleta>

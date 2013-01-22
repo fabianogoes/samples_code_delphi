@@ -1,1 +1,1 @@
-Aplicações que faço para testar bibliotecas e API - guardo exemplos para futuras pesquisas
+<h1>Aplicaï¿½ï¿½es que faï¿½o para testar bibliotecas e API - guardo exemplos para futuras pesquisas  </h1>
